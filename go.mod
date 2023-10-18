@@ -1,3 +1,3 @@
-module example.com/m
+module learning-ci
 
 go 1.21.3
